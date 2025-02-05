@@ -1,7 +1,0 @@
-#includ<iostream>
-Using namespace std;
-Int main() 
-{
-Cout<<"Hello Taimoor";
-Return 0;
-}
